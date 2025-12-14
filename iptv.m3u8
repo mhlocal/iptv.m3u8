@@ -1,22 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="MRTV 4" group-title="Myanmar",MRTV 4
+#EXTINF:-1 tvg-id="mrtv4" tvg-name="MRTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/MRTV4_logo.png" group-title="Myanmar",MRTV 4
 https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/HLSoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Channel 7" group-title="Myanmar",Channel 7
+#EXTINF:-1 tvg-id="channel7" tvg-name="Channel 7" tvg-logo="https://i.imgur.com/8xZQZQh.png" group-title="Myanmar",Channel 7
 https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/HLSoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Pyoneplay Sport" group-title="Sports",Pyoneplay Sport
+#EXTINF:-1 tvg-id="pyoneplaysport" tvg-name="Pyoneplay Sport" tvg-logo="https://i.imgur.com/5xkWcQm.png" group-title="Sports",Pyoneplay Sport
 https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-name="မဟာဗောဓိ" group-title="Religion",မဟာဗောဓိ
+#EXTINF:-1 tvg-id="maharmeditation" tvg-name="မဟာဗောဓိ" tvg-logo="https://i.imgur.com/0qZp8ZJ.png" group-title="Religion",မဟာဗောဓိ
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
-#EXTINF:-1 tvg-name="Mahar Sport" group-title="Sports",Mahar Sport
+#EXTINF:-1 tvg-id="maharsport" tvg-name="Mahar Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Mahar_Sport_logo.png" group-title="Sports",Mahar Sport
 https://tv.mahar.live/esports/mahar.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mahar" group-title="Myanmar",Mahar
-https://tv.mahar.live/mahar/website.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-name="DVB" group-title="Myanmar",DVB
-https://live-stream.dvb.no/hls/stream_high/index.m3u8
