@@ -6,7 +6,7 @@ https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/HLSoutput/manifest
 #EXTINF:-1 tvg-id="channel7" tvg-name="Channel 7" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar",Channel 7
 https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/HLSoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-id="pyoneplaysport" tvg-name="Pyoneplay Sport" tvg-logo="https://i.imgur.com/5xkWcQm.png" group-title="Sports",Pyoneplay Sport
+#EXTINF:-1 tvg-id="pyoneplaysport" tvg-name="Pyoneplay Sport" tvg-logo="https://www.mediafire.com/convkey/fe45/qi0n3v1f0lbaawc4g.jpg?size_id=3" group-title="Sports",Pyoneplay Sport
 https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="maharmeditation" tvg-name="မဟာဗောဓိ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Religion",မဟာဗောဓိ
