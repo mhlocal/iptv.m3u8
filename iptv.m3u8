@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="MRTV 4" group-title="Myanmar",MRTV 4
+https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/HLSoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Channel 7" group-title="Myanmar",Channel 7
+https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/HLSoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Pyoneplay Sport" group-title="Sports",Pyoneplay Sport
+https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8
+
+#EXTINF:-1 tvg-name="မဟာဗောဓိ" group-title="Religion",မဟာဗောဓိ
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 tvg-name="Mahar Sport" group-title="Sports",Mahar Sport
+https://tv.mahar.live/esports/mahar.stream/playlist.m3u8
