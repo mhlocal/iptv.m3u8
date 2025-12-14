@@ -21,5 +21,3 @@ https://tv.mahar.live/mahar/website.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="DvbNews" tvg-name="Dvb News" tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic-voice-of-burma-tv-mm.png" group-title="Sports",Dvb News
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
-#EXTINF:-1 tvg-id="ChannelMe" tvg-name="Channel Me" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-entertainment-mm.png" group-title="Sports",Channel Me
-https://asia.sipradius.net/cache/SEAGames3/m3u8/hls_m3u8_SEAGames3HIGH.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA2OjQxOjM0IFBNJmhhc2hfdmFsdWU9OE80YUdraEhJMDRXcEYrUzV6SUE2Zz09JnZhbGlkbWludXRlcz0xMCZpZD0zNTI0MDE4MzEzMw==
