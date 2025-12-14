@@ -17,3 +17,6 @@ https://tv.mahar.live/esports/mahar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mahar" group-title="Myanmar",Mahar
 https://tv.mahar.live/mahar/website.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="DVB" group-title="Myanmar",DVB
+https://live-stream.dvb.no/hls/stream_high/index.m3u8
