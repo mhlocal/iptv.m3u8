@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="mrtv4" tvg-name="MRTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/my/b/be/Logo_of_MRTV-4.png" group-title="Myanmar",MRTV 4
+#EXTINF:-1 tvg-id="mrtv4" tvg-name="MRTV 4" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar",MRTV 4
 https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/HLSoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-id="channel7" tvg-name="Channel 7" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar",Channel 7
