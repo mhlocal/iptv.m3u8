@@ -21,3 +21,5 @@ https://tv.mahar.live/mahar/website.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="DvbNews" tvg-name="Dvb News" tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic-voice-of-burma-tv-mm.png" group-title="Sports",Dvb News
 https://live-stream.dvb.no/hls/stream_high/index.m3u8
 
+#EXTINF:-1 tvg-id="FortuneTv" tvg-name="Fortune Tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Movies",Fortune Tv
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
